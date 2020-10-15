@@ -4,7 +4,7 @@ if(n>1)
         if(n%i==0):
             print(n," is not a prime no.")
             break
-    else
+    else :
             print(n," is a prime no. ")
-else
+else :
     print("Please enter the no. greater then 1")
